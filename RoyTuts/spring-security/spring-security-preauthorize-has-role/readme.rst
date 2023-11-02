@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/preauthorize-annotation-hasrole-example-in-spring-security/

@@ -1,0 +1,1 @@
+Please follow the tutorial at https://roytuts.com/display-data-on-html-table-from-server-using-angular-and-alternate-row-color/
